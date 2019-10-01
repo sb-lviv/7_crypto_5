@@ -1,0 +1,3 @@
+[submodule "elgamal"]
+	path = elgamal
+	url = https://github.com/sb-lviv/7_crypto_4.git
